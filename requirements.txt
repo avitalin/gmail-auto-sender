@@ -1,0 +1,3 @@
+# No external dependencies required - using standard library modules only
+# Python 3.6+ recommended 
+python-dotenv>=0.19.0  # For loading environment variables 
